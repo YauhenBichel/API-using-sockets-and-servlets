@@ -1,0 +1,279 @@
+[19:14:32:655 @31 main: Data loading: started
+[19:14:32:716 @48 main: Hotels loading: started
+[19:14:33:050 @29 main: File path is ./../../../input/hotels/hotels.json
+[19:14:33:352 @41 main: Hotel files are parsed. Number of hotels is 157
+[19:14:33:354 @53 main: Hotels loading: done
+[19:14:33:405 @57 main: Threads number: 1
+[19:14:33:420 @60 main: Reviews loading: started
+[19:14:33:685 @111 main: Worker working on ./../../../input/reviews finished work
+[19:14:33:691 @111 main: Worker working on ./../../../input/reviews/SanCarlos finished work
+[19:14:33:693 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanCarlos/review200649.json
+[19:14:33:722 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanCarlos/review14781.json
+[19:14:33:780 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review919198.json
+[19:14:33:781 @111 main: Worker working on ./../../../input/reviews/SanFrancisco finished work
+[19:14:33:850 @111 main: Worker working on ./../../../input/reviews/SanFrancisco/SFOAirport finished work
+[19:14:33:852 @111 main: Worker working on ./../../../input/reviews/SanFrancisco/Hostels finished work
+[19:14:33:921 @111 main: Worker working on ./../../../input/reviews/SanFrancisco/UnionSq finished work
+[19:14:33:946 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review912982.json
+[19:14:33:955 @111 main: Worker working on ./../../../input/reviews/SanFrancisco/FishermansWharf finished work
+[19:14:33:956 @111 main: Worker working on ./../../../input/reviews/SanFrancisco/FinancialDistrict finished work
+[19:14:33:971 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review4432027.json
+[19:14:33:979 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review662368.json
+[19:14:33:966 @111 main: Worker working on ./../../../input/reviews/Emeryville finished work
+[19:14:33:988 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1606984.json
+[19:14:34:004 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review533579.json
+[19:14:34:012 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1321986.json
+[19:14:34:027 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review50993.json
+[19:14:34:042 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5830.json
+[19:14:34:057 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review476728.json
+[19:14:34:280 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review20701.json
+[19:14:34:414 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review910225.json
+[19:14:34:482 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review2336.json
+[19:14:34:514 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review22510.json
+[19:14:34:524 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review26945.json
+[19:14:34:562 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review11509.json
+[19:14:34:685 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review8090040.json
+[19:14:34:689 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review23383.json
+[19:14:34:714 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review51116.json
+[19:14:34:755 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1145267.json
+[19:14:34:794 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review7713.json
+[19:14:34:803 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review918527.json
+[19:14:34:830 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review6505.json
+[19:14:34:888 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review904482.json
+[19:14:34:912 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review18437.json
+[19:14:34:963 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review881699.json
+[19:14:34:989 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review12539.json
+[19:14:35:022 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review12493.json
+[19:14:35:044 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1515923.json
+[19:14:35:054 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review522505.json
+[19:14:35:092 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review18200.json
+[19:14:35:165 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review876315.json
+[19:14:35:207 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review693658.json
+[19:14:35:225 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review287665.json
+[19:14:35:246 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review6666.json
+[19:14:35:259 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review7262522.json
+[19:14:35:274 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review790530.json
+[19:14:35:286 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review25860.json
+[19:14:35:297 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review42336.json
+[19:14:35:310 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review890830.json
+[19:14:35:355 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review7942.json
+[19:14:35:391 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review21073.json
+[19:14:35:459 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review6271901.json
+[19:14:35:492 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5338.json
+[19:14:35:568 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review897225.json
+[19:14:35:587 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review41833.json
+[19:14:35:600 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review789395.json
+[19:14:35:614 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1766605.json
+[19:14:35:629 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review25271.json
+[19:14:35:652 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review225819.json
+[19:14:35:663 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review24620.json
+[19:14:35:680 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review808403.json
+[19:14:35:786 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review15254.json
+[19:14:35:807 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review18962.json
+[19:14:35:825 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1588312.json
+[19:14:35:832 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review8638.json
+[19:14:35:850 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review6706717.json
+[19:14:35:853 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review296720.json
+[19:14:35:867 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review444672.json
+[19:14:35:877 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review11523.json
+[19:14:35:888 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review8647196.json
+[19:14:35:896 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review791769.json
+[19:14:35:905 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review891239.json
+[19:14:35:916 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5361249.json
+[19:14:35:921 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review856888.json
+[19:14:35:934 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5875.json
+[19:14:35:982 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review23406.json
+[19:14:36:012 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review287112.json
+[19:14:36:020 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review17616.json
+[19:14:36:044 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review2406.json
+[19:14:36:071 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review23774.json
+[19:14:36:120 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review13950.json
+[19:14:36:144 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5984.json
+[19:14:36:179 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1146383.json
+[19:14:36:192 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review14451.json
+[19:14:36:212 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review27274.json
+[19:14:36:226 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review438727.json
+[19:14:36:231 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review14781.json
+[19:14:36:240 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review283107.json
+[19:14:36:253 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review19035.json
+[19:14:36:262 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5045.json
+[19:14:36:275 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review26760.json
+[19:14:36:286 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review16552.json
+[19:14:36:298 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review22148.json
+[19:14:36:312 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review9043627.json
+[19:14:36:401 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review855749.json
+[19:14:36:454 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review437098.json
+[19:14:36:460 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review894295.json
+[19:14:36:479 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review519729.json
+[19:14:36:492 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review3308.json
+[19:14:36:517 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review23581.json
+[19:14:36:527 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review18320.json
+[19:14:36:541 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review11793.json
+[19:14:36:549 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review3552.json
+[19:14:36:558 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review578899.json
+[19:14:36:633 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review915510.json
+[19:14:36:707 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review20191.json
+[19:14:36:717 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review40682.json
+[19:14:36:729 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review2536795.json
+[19:14:36:734 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review790579.json
+[19:14:36:743 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review18204.json
+[19:14:36:770 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review15135.json
+[19:14:36:782 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review883306.json
+[19:14:36:793 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review19842.json
+[19:14:36:883 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review57255.json
+[19:14:36:893 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review7635.json
+[19:14:36:931 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review24540.json
+[19:14:36:955 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review564858.json
+[19:14:36:988 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5425.json
+[19:14:37:003 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review1208461.json
+[19:14:37:017 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review11771.json
+[19:14:37:026 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review455591.json
+[19:14:37:034 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review14553.json
+[19:14:37:053 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review118232.json
+[19:14:37:115 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review28200.json
+[19:14:37:125 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review5901.json
+[19:14:37:148 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review15769.json
+[19:14:37:183 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/review897333.json
+[19:14:37:190 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review12345.json
+[19:14:37:255 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review23838.json
+[19:14:37:293 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review40443.json
+[19:14:37:323 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review4705.json
+[19:14:37:348 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review524164.json
+[19:14:37:368 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review599536.json
+[19:14:37:391 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review1139289.json
+[19:14:37:421 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review4044.json
+[19:14:37:492 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review2981.json
+[19:14:37:514 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review26500.json
+[19:14:37:525 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review7655.json
+[19:14:37:554 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review16955.json
+[19:14:37:586 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review487.json
+[19:14:37:602 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review9329.json
+[19:14:37:619 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review1110785.json
+[19:14:37:636 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/SFOAirport/review28502.json
+[19:14:37:650 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/Hostels/review9491356.json
+[19:14:37:663 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/Hostels/review14772741.json
+[19:14:37:670 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review8737.json
+[19:14:37:691 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review150946.json
+[19:14:37:819 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review23395.json
+[19:14:37:826 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review20547.json
+[19:14:37:833 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review5883.json
+[19:14:37:842 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review25622.json
+[19:14:37:852 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review360.json
+[19:14:37:861 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/UnionSq/review24468.json
+[19:14:37:870 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review476728.json
+[19:14:37:879 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review22500.json
+[19:14:37:895 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review1047.json
+[19:14:37:908 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review20488.json
+[19:14:37:917 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review24625.json
+[19:14:37:926 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review578899.json
+[19:14:37:937 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FishermansWharf/review422927.json
+[19:14:37:982 @54 pool-2-thread-1: File path is ./../../../input/reviews/SanFrancisco/FinancialDistrict/review4302.json
+[19:14:37:990 @54 pool-2-thread-1: File path is ./../../../input/reviews/Emeryville/review10323.json
+[19:14:38:039 @54 pool-2-thread-1: File path is ./../../../input/reviews/Emeryville/review547988.json
+[19:14:38:121 @54 pool-2-thread-1: File path is ./../../../input/reviews/Emeryville/review17280.json
+[19:14:38:148 @54 pool-2-thread-1: File path is ./../../../input/reviews/Emeryville/review15674041.json
+[19:14:38:162 @63 main: Reviews loading: done
+[19:14:38:164 @33 main: Data loading: map hotel review
+[19:14:38:170 @35 main: Data loading: map word review
+[19:14:40:460 @37 main: Data loading: done
+[19:14:40:947 @34 main: Added servlet: WordServlet
+[19:14:41:023 @34 main: Added servlet: ReviewsServlet
+[19:14:41:069 @34 main: Added servlet: HotelServlet
+[19:14:41:074 @34 main: Added servlet: WeatherServlet
+[19:14:41:163 @52 main: Starting Jetty server
+[19:14:52:029 @47 qtp335708295-16: Process resource hotelInfo
+[19:14:52:032 @48 qtp335708295-16: find hotel with id 10323
+[19:14:52:033 @118 qtp335708295-16: Find hotel by hotelId 10323
+[19:14:52:036 @67 qtp335708295-16: Hotel:
+********************
+Hilton Garden Inn San Francisco/Oakland Bay Bridge: 10323
+1800 Powell Street
+Emeryville, CA
+, location=Location{latitude='37.837773', longitude='-122.298142'}
+[19:14:52:074 @47 qtp335708295-19: Process resource hotelInfo
+[19:14:52:074 @48 qtp335708295-19: find hotel with id 10323
+[19:14:52:075 @118 qtp335708295-19: Find hotel by hotelId 10323
+[19:14:52:075 @67 qtp335708295-19: Hotel:
+********************
+Hilton Garden Inn San Francisco/Oakland Bay Bridge: 10323
+1800 Powell Street
+Emeryville, CA
+, location=Location{latitude='37.837773', longitude='-122.298142'}
+[19:14:52:137 @47 qtp335708295-22: Process resource hotelInfo
+[19:14:52:138 @48 qtp335708295-22: find hotel with id 1003
+[19:14:52:139 @118 qtp335708295-22: Find hotel by hotelId 1003
+[19:14:52:139 @67 qtp335708295-22: Hotel:
+********************
+Hotel Kabuki - a Joie de Vivre Boutique Hotel: 1003
+1625 Post St
+San Francisco, CA
+, location=Location{latitude='37.785665', longitude='-122.428678'}
+[19:14:52:154 @47 qtp335708295-19: Process resource hotelInfo
+[19:14:52:155 @48 qtp335708295-19: find hotel with id 10
+[19:14:52:156 @118 qtp335708295-19: Find hotel by hotelId 10
+[19:14:52:159 @74 qtp335708295-19: Hotel with ID '10' is not found
+[19:14:52:183 @47 qtp335708295-22: Process resource hotelInfo
+[19:14:52:184 @55 qtp335708295-22: query params are missing
+[19:14:52:244 @47 qtp335708295-19: Process resource /reviews
+[19:14:52:244 @65 qtp335708295-19: find reviews of hotel with id 10323
+[19:14:52:245 @165 qtp335708295-19: Reviews by hotel Id: 10323
+[19:14:52:346 @47 qtp335708295-22: Process resource /reviews
+[19:14:52:346 @65 qtp335708295-22: find reviews of hotel with id 10323
+[19:14:52:347 @165 qtp335708295-22: Reviews by hotel Id: 10323
+[19:14:52:388 @47 qtp335708295-21: Process resource /reviews
+[19:14:52:389 @65 qtp335708295-21: find reviews of hotel with id 10323
+[19:14:52:390 @165 qtp335708295-21: Reviews by hotel Id: 10323
+[19:14:52:418 @47 qtp335708295-22: Process resource /reviews
+[19:14:52:419 @65 qtp335708295-22: find reviews of hotel with id 10
+[19:14:52:419 @165 qtp335708295-22: Reviews by hotel Id: 10
+[19:14:52:420 @83 qtp335708295-22: Hotel with ID '10' is not found
+[19:14:52:444 @47 qtp335708295-21: Process resource /reviews
+[19:14:52:444 @56 qtp335708295-21: query params are missing
+[19:14:52:577 @47 qtp335708295-22: Process resource /reviews
+[19:14:52:578 @64 qtp335708295-22: Hotel ID is missing
+[19:14:52:598 @47 qtp335708295-21: Process resource /reviews
+[19:14:52:599 @68 qtp335708295-21: num is missing
+[19:14:52:615 @47 qtp335708295-22: Process resource '/index' to find a word
+[19:14:52:619 @83 qtp335708295-22: find reviews with word nice
+[19:14:52:620 @143 qtp335708295-22: Reviews with word nice
+[19:14:52:655 @47 qtp335708295-21: Process resource '/index' to find a word
+[19:14:52:658 @83 qtp335708295-21: find reviews with word nice
+[19:14:52:659 @143 qtp335708295-21: Reviews with word nice
+[19:14:52:707 @47 qtp335708295-22: Process resource '/index' to find a word
+[19:14:52:708 @83 qtp335708295-22: find reviews with word nice
+[19:14:52:709 @143 qtp335708295-22: Reviews with word nice
+[19:14:52:738 @47 qtp335708295-19: Process resource '/index' to find a word
+[19:14:52:739 @56 qtp335708295-19: query params are missing
+[19:14:57:322 @51 qtp335708295-22: Process resource /weather
+[19:14:57:322 @48 qtp335708295-22: find hotel with id 10323
+[19:14:57:323 @118 qtp335708295-22: Find hotel by hotelId 10323
+[19:14:57:323 @72 qtp335708295-22: Hotel:
+********************
+Hilton Garden Inn San Francisco/Oakland Bay Bridge: 10323
+1800 Powell Street
+Emeryville, CA
+, location=Location{latitude='37.837773', longitude='-122.298142'}
+[19:15:03:016 @51 qtp335708295-21: Process resource /weather
+[19:15:03:022 @48 qtp335708295-21: find hotel with id 10323
+[19:15:03:022 @118 qtp335708295-21: Find hotel by hotelId 10323
+[19:15:03:023 @72 qtp335708295-21: Hotel:
+********************
+Hilton Garden Inn San Francisco/Oakland Bay Bridge: 10323
+1800 Powell Street
+Emeryville, CA
+, location=Location{latitude='37.837773', longitude='-122.298142'}
+[19:15:03:274 @51 qtp335708295-19: Process resource /weather
+[19:15:03:274 @48 qtp335708295-19: find hotel with id 1003
+[19:15:03:275 @118 qtp335708295-19: Find hotel by hotelId 1003
+[19:15:03:275 @72 qtp335708295-19: Hotel:
+********************
+Hotel Kabuki - a Joie de Vivre Boutique Hotel: 1003
+1625 Post St
+San Francisco, CA
+, location=Location{latitude='37.785665', longitude='-122.428678'}
+[19:15:03:473 @51 qtp335708295-22: Process resource /weather
+[19:15:03:474 @48 qtp335708295-22: find hotel with id 10
+[19:15:03:474 @118 qtp335708295-22: Find hotel by hotelId 10
+[19:15:03:475 @83 qtp335708295-22: Hotel with ID: 10 is not found
+[19:15:03:484 @51 qtp335708295-21: Process resource /weather
+[19:15:03:485 @59 qtp335708295-21: query params are missing
